@@ -107,3 +107,10 @@ npm run dev
 | Amazon S3 | File uploads (photos, banners, logos, certificates) |
 
 Full step-by-step guide: [`deploy/AWS_DEPLOYMENT.md`](deploy/AWS_DEPLOYMENT.md).
+
+
+
+## 📄 Project Documentation
+For complete project details, technologies used, system architecture, features and AWS services, view the documentation below.
+[**Download ShuttlePulse Project Documentation (DOCX)**](https://github.com/Shreya-210806/ShuttlePulse/blob/main/ShuttlePulse_Project_Documentation.docx)
+
