@@ -1,4 +1,4 @@
-# ShuttlePulse — Standalone Badminton Organizer & Referee CRM (MERN)
+# ShuttlePulse —  Badminton Organizer & Referee CRM (MERN)
 
 Complete, role-protected MERN Organizer CRM & Referee Court Scoring Console for managing badminton tournaments, player records, doubles pairings, draws/fixtures, BWF 3×21 match scoring, PCI-safe payment tracking, communications, CSV reports, audit logs, and staff settings.
 
